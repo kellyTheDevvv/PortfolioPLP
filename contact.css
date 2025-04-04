@@ -1,0 +1,65 @@
+body{
+    background-color:aliceblue;
+}
+
+.header5{
+    font-family : Impact, sans-serif;
+    margin-top : 120px;
+    text-align : center;
+    color : brown;
+}
+
+.con{
+    font-size: 20px;
+    font-family:Arial;
+    text-align : right;
+    list-style-type: none;
+    background-color: black;
+    border : 2px solid orange;
+    
+}
+.con1{
+    float :right;
+    width : fit-content;
+    margin-top: 1px;
+    margin-bottom: 80px;
+}
+
+.con2{
+    font-size : 20px;
+    font-family : Arial;
+    color : black;
+}
+
+.con3{
+    background-color : lightblue;
+    width : fit-content;
+    font-size : 18px;
+    font-family : Arial;
+}
+
+.buttons{
+    background-color : black;
+    color : yellowgreen;
+    border : none;
+    padding : 5px;
+    margin : 5px;
+    cursor : pointer;
+}
+.buttons:hover{
+    background-color : darkblue;
+}
+
+a{
+    color : yellowgreen;
+}
+a:hover{
+    color :lightgreen;
+}
+a:active{
+    color : darkgreen;
+}
+a:visited{
+    color : darkgreen;
+}
+  

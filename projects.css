@@ -1,0 +1,47 @@
+body{
+    background-color:aliceblue;
+}
+
+.header6{
+    font-family : Impact, sans-serif;
+    margin-top : 120px;
+    text-align : center;
+    color : brown;
+}
+
+.pro{
+    font-size: 20px;
+    font-family:Arial;
+    text-align : right;
+    list-style-type: none;
+    background-color: black;
+    border : 2px solid orange;
+    
+}
+
+.pro1{
+    float :right;
+    width : fit-content;
+    margin-top: 1px;
+    margin-bottom: 80px;
+}
+
+.pro2{
+    font-size : 20px;
+    font-family : Arial;
+    color : black;
+}
+
+a{
+    color : yellowgreen;
+}
+a:hover{
+    color :lightgreen;
+}
+a:active{
+    color : darkgreen;
+}
+a:visited{
+    color : darkgreen;
+}
+  

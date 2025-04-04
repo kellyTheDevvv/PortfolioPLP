@@ -1,0 +1,51 @@
+body{
+    background-color:aliceblue;
+}
+
+.header1{
+    font-family : Impact, sans-serif;
+    margin-top : 100px;
+    text-align : center;
+    color : brown;
+}
+
+.boo{
+    font-size : 18px;
+    font-family : Arial;
+    color: black;
+    margin-top:100px;
+    
+}
+.term{
+    background-color: orange;
+}
+
+.abt{
+    font-size: 20px;
+    font-family:Arial;
+    text-align : right;
+    list-style-type: none;
+    background-color: black;
+    border : 2px solid orange;
+    
+}
+.box{
+    float :right;
+    width : fit-content;
+    margin-top: 1px;
+    margin-bottom: 80px;
+}
+
+a{
+    color : yellowgreen;
+}
+a:hover{
+    color :lightgreen;
+}
+a:active{
+    color : darkgreen;
+}
+a:visited{
+    color : darkgreen;
+}
+  
